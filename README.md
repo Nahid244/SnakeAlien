@@ -3,8 +3,10 @@ Snake Alien
 
 ## Built With
 
-* Java(eclipse)
+* Java
 
+## Tools
+* Eclipse(adt plugin)
 
 
 ## Authors
